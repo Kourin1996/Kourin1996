@@ -1,4 +1,10 @@
-###
+# Hi, I'm kourin
 
 Thank you for visiting my profile!  
-I'm kourin, Web Developer and Blockchain Developer
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kourin1996&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourin1996&count_private=true&show_icons=true" />
+</a>
