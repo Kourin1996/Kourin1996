@@ -2,8 +2,7 @@
 <h3 align="center">A Blockchain and Web Application Developer</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kourin1996&" alt="kourin1996" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kourin1996&show_icons=true&locale=en" alt="kourin1996" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kourin1996&show_icons=true&locale=en" alt="kourin1996" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kourin1996&show_icons=true&locale=en&layout=compact" alt="kourin1996" /></p>
 
