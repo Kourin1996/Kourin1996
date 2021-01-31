@@ -6,7 +6,8 @@
 <h3 align="left">Personal Solidity Projects:</h3>
 https://github.com/Kourin1996/solidity-small-challenges
 
-<br/>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kourin1996&show_icons=true&locale=en&layout=compact" alt="kourin1996" /></p>
 
