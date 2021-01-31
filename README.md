@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm kourin</h1>
-<h3 align="center">A Blockchain and Web Developer</h3>
+<h3 align="center">A self-employed Blockchain and Web Developer seeking projects I can collaborate with</h3>
+
+<p>A blockchain and web Engineer with 2+years work experience and 7+ years gradual experience of computer engineering. Advanced skills of web development in both Frontend and Backend, especially good at React.js and Node.js. Practical skills and knowledge of Solidity and Cosmos SDK. With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field.</p>
+
+<h3 align="left">Personal Solidity Projects:</h3>
+https://github.com/Kourin1996/solidity-small-challenges
+
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kourin1996&show_icons=true&locale=en&layout=compact" alt="kourin1996" /></p>
 
