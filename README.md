@@ -3,12 +3,6 @@
 
 <p>A blockchain and web Engineer with 2+years work experience and 7+ years gradual experience of computer engineering. Advanced skills of web development in both Frontend and Backend, especially great skills of React.js, Node.js, and Go. Practical skills and knowledge of Solidity and Cosmos SDK. With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field.</p>
 
-<h3 align="left">Personal Solidity Projects:</h3>
-
-[solidity-small-challenges](https://github.com/Kourin1996/solidity-small-challenges) Sample contracts with test
-
-[crowdsale-sample](https://github.com/Kourin1996/crowdsale-sample) Crowdsale example with React Frontend
-
 <br>
 <br>
 
