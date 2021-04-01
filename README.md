@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm kourin</h1>
-<h3 align="center">A self-employed Blockchain and Web Developer seeking projects I can contribute to</h3>
+<h3 align="center">A self-employed Blockchain and Web Developer</h3>
+<h3 align="center">I'm looking for projects I can contribute to</h3>
 
 <p>A blockchain and web Developer with 2+years work experience and 7+ years gradual experience of computer engineering. Advanced skills of web development in both Frontend and Backend, especially great skills of React.js, Node.js, and Go. Practical skills and knowledge of Solidity and Cosmos SDK. With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field.</p>
 
