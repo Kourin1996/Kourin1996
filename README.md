@@ -6,7 +6,7 @@
 <br>
 
 <div style="width: 100%; display:flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
   <div style="display: grid; grid-template-columns: auto; gap: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kourin1996&" alt="Kourin1996" />
