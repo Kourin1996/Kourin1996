@@ -21,7 +21,7 @@
 <h3 align="left">OSS:</h3>
 <p align="left">
   <ul>
-    <li>https://github.com/0xPolygon/polygon-sdk</li>
+    <li>https://github.com/0xPolygon/polygon-edge</li>
   </ul>
 </p>
 
