@@ -35,7 +35,7 @@
       <a href="https://ethglobal.com/showcase/complisend-3j0jx">CompliSend</a> at ETHSF 2022
     </li>
     <li>
-      <a href="https://tokyo.akindo.io/">CupCap</a> at Tokyo Web3 Hackathon 2022
+      <a href="https://github.com/cupcap-app/cupcap/">CupCap</a> at Tokyo Web3 Hackathon 2022
     </li>
   </ul>
 </p>
