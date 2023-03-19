@@ -25,7 +25,7 @@
   </ul>
 </p>
 
-<h3 align="left">Web3 Hackathon Rewards:</h3>
+<h3 align="left">Web3 Hackathon Products with awards:</h3>
 <p align="left">
   <ul>
     <li>
