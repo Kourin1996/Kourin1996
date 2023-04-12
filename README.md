@@ -37,6 +37,12 @@
     <li>
       <a href="https://github.com/cupcap-app/cupcap/">CupCap</a> at Tokyo Web3 Hackathon 2022
     </li>
+    <li>
+      <a href="https://github.com/0xF48/playdao-ethdenver2023">PlayDAO</a> at ETHDenver
+    </li>
+    <li>
+      <a href="https://github.com/gaogao-asia/key3hackathon">TrustX</a> at Toyota & Key3 Hackathon
+    </li>
   </ul>
 </p>
 
