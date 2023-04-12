@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kourin</h1>
-<h3 align="center">Self-employed Blockchain and Web Developer | I'm looking for projects I can contribute to</h3>
+<h3 align="center">Blockchain and Web Developer | I'm looking for projects I can contribute to</h3>
 
-<p>Blockchain and Web Developer with 2+ years work experience and 7+ years gradual experience of computer engineering. Contributing OSS project of Blockchain Layer 2. Practical skills and knowledge of Solidity and Cosmos SDK. Advanced skills of web development in both Frontend and Backend, especially great skills of React.js, Node.js, and Go.  With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field</p>
+<p>Currently working as CTO at CupCap. Blockchain and Web Developer with 5+ years work experience and 7+ years gradual experience of computer engineering. Contributing OSS project of Blockchain Layer 2. Practical skills and knowledge of Solidity and Cosmos SDK. Advanced skills of web development in both Frontend and Backend, especially great skills of React.js, Node.js, and Go.  With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field</p>
 
 <br>
 
