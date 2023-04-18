@@ -43,6 +43,9 @@
     <li>
       <a href="https://github.com/gaogao-asia/key3hackathon">TrustX</a> at Toyota & Key3 Hackathon
     </li>
+    <li>
+      <a href="https://ethglobal.com/showcase/daypass-jf7vx">DayPass</a> at ETHTokyo
+    </li>
   </ul>
 </p>
 
