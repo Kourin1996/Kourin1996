@@ -25,6 +25,13 @@
   </ul>
 </p>
 
+<h3 align="left">My Book:</h3>
+<p align="left">
+  <ul>
+    <li>https://gihyo.jp/book/2022/978-4-297-12916-3</li>
+  </ul>
+</p>
+
 <h3 align="left">Web3 Hackathon Products with awards:</h3>
 <p align="left">
   <ul>
