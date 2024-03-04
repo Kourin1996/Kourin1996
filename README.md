@@ -45,13 +45,16 @@
       <a href="https://github.com/cupcap-app/cupcap/">CupCap</a> at Tokyo Web3 Hackathon 2022
     </li>
     <li>
-      <a href="https://github.com/0xF48/playdao-ethdenver2023">PlayDAO</a> at ETHDenver
+      <a href="https://github.com/0xF48/playdao-ethdenver2023">PlayDAO</a> at ETHDenver 2023
     </li>
     <li>
       <a href="https://github.com/gaogao-asia/key3hackathon">TrustX</a> at Toyota & Key3 Hackathon
     </li>
     <li>
       <a href="https://ethglobal.com/showcase/daypass-jf7vx">DayPass</a> at ETHTokyo
+    </li>
+     <li>
+      <a href="https://devfolio.co/projects/bitbounty-aca1">BitBounty</a> at ETHDenver 2024
     </li>
   </ul>
 </p>
