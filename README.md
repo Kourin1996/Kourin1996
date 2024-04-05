@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm kourin</h1>
-<h3 align="center">Blockchain and Web Developer | I'm looking for jobs of protocol developer using ZKP!!!</h3>
+<h3 align="center">Blockchain Protocol Developer ► Golang | Solidity | Web3 Technologies | 🚀 Building the Future of Decentralized Systems & Enhancing Blockchain Interoperability</h3>
 
-<p>Blockchain and Web Developer with 5+ years work experience and 7+ years gradual experience of computer engineering. Contributing OSS project of Blockchain Layer 2. Practical skills and knowledge of Solidity and Cosmos SDK. Advanced skills of web development in both Frontend and Backend, especially great skills of Go, Rust, TypeScript, React.js and Node.js.  With strong responsibility and good communication skills in Japanese and English. Strong interests in Blockchain and Finance field</p>
+<p>👋 Hi! I'm kourin a strategic and results-driven professional with impressive track record of developing cutting-edge web and blockchain solutions. With a robust background in software engineering, I excel at creating strategic initiatives that enhance user experience, optimize technological processes, and drive digital transformation.</p>
+
+<p>🌐 Specializing in the design, development, and optimization of decentralized applications (DApps) and blockchain interoperability protocols, I have led multiple projects to success, from advanced web platforms to groundbreaking cross-chain advancements. My adeptness in cryptography and Zero-Knowledge Proofs (ZKP), along with my comprehensive skill set in various programming languages has helped me secure top honors in 7+ hackathons.</p>
+
+<p>💡 As a fervent advocate for continuous improvement and knowledge sharing, I've established study groups and contributed significantly to the blockchain community, fostering environments where innovation thrives. My contributions have empowered communities and organizations to harness their full potential.</p>
+
+<p>🔎 Let's connect and explore how my technical and experience align with your objectives.</p>
+
+<p>Specialties: Blockchain Development | Cross-chain Interoperability | Smart Contract Development | Distributed Systems | System Architecture | EVM-Compatible Systems | Stakeholder Engagement | Cryptography</p>
+
+<p>Technical Skills: Golang | JavaScript | TypeScript | Solidity | MySQL | PostgreSQL | CSS | AWS | Node.js | Express.js | Nest.js | React | GitHub | Docker</p>
 
 <br>
 
