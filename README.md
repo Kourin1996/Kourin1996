@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm kourin</h1>
-<h3 align="center">Blockchain Protocol Developer ► Golang | Solidity | Web3 Technologies | 🚀 Building the Future of Decentralized Systems & Enhancing Blockchain Interoperability</h3>
+<h3 align="center">Visionary Blockchain Engineer | 7+ Years in Optimizing Blockchain Systems | Expert in Cryptography & Consensus Algorithms | Proficient in Golang, Rust, and Web3 Development</h3>
 
-<p>👋 Hi! I'm kourin a strategic and results-driven professional with impressive track record of developing cutting-edge web and blockchain solutions. With a robust background in software engineering, I excel at creating strategic initiatives that enhance user experience, optimize technological processes, and drive digital transformation.</p>
+✅ Over seven years of optimizing blockchain systems for efficiency and performance while leveraging a deep understanding of cryptographic principles and consensus algorithms.  
+✅ Brings deep insights into blockchain technology, protocol layers, applied cryptography, distributed system consensus, and asynchronous processing programming using Golang and Rust.  
+✅ Contributed to consensus engine, EVM (Ethereum Virtual Machine), networking, state management, and BLS aggregated signature.  
+✅ Expert Web Application Developer proficient in React, Next.js, HTML, CSS, Node.js, TypeScript, Golang.
 
-<p>🌐 Specializing in the design, development, and optimization of decentralized applications (DApps) and blockchain interoperability protocols, I have led multiple projects to success, from advanced web platforms to groundbreaking cross-chain advancements. My adeptness in cryptography and Zero-Knowledge Proofs (ZKP), along with my comprehensive skill set in various programming languages has helped me secure top honors in 7+ hackathons.</p>
+#### Key Career Highlights:  
+⭐ Pioneered the development of core blockchain components as a Blockchain Protocol Engineer at Polygon Edge, a leading open-source blockchain protocol project.   
+⭐ Led multiple DApps (Distributed Application) development initiatives at GAOGAO, including creating a DAO management tool and Badge Creation Tool for issuing attendance achievements.   
+⭐ Oversaw practical and advanced DApp development, participating in 7+ Web3 hackathons and clinching prizes from sponsor companies in 7 hackathons.  
+⭐ Crafted intuitive user interfaces for cryptocurrency trading applications, encompassing features such as News Feed, Price Chart, and Place Order Screen.   
+⭐ Led four web application development projects at GAOGAO, providing key insights and technical guidance to the CTO during the early stages of application development.
 
-<p>💡 As a fervent advocate for continuous improvement and knowledge sharing, I've established study groups and contributed significantly to the blockchain community, fostering environments where innovation thrives. My contributions have empowered communities and organizations to harness their full potential.</p>
+Specialties: Blockchain Development | Cross-chain Interoperability | Smart Contract Development | Distributed Systems | System Architecture | EVM-Compatible Blockchain | Stakeholder Engagement | Cryptography
 
-<p>🔎 Let's connect and explore how my technical and experience align with your objectives.</p>
+Technical Skills: Golang | Rust | JavaScript | TypeScript | Solidity | PostgreSQL | CSS | AWS | Node.js | Express.js | Nest.js | React | Next.js | GitHub | Docker
 
-<p>Specialties: Blockchain Development | Cross-chain Interoperability | Smart Contract Development | Distributed Systems | System Architecture | EVM-Compatible Systems | Stakeholder Engagement | Cryptography</p>
-
-<p>Technical Skills: Golang | JavaScript | TypeScript | Solidity | MySQL | PostgreSQL | CSS | AWS | Node.js | Express.js | Nest.js | React | GitHub | Docker</p>
-
-<br>
+Let's Connect: Contact me if you're interested in discussing cutting-edge blockchain technologies, collaborating on innovative projects, or exploring new opportunities!
 
 <div style="width: 100%; display:flex; justify-content: space-between; flex-wrap: wrap;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
