@@ -46,7 +46,7 @@ Let's Connect: Contact me if you're interested in discussing cutting-edge blockc
   </ul>
 </p>
 
-<h3 align="left">Web3 Hackathon Products with awards:</h3>
+<h3 align="left">Web3 Hackathon Products with prizes:</h3>
 <p align="left">
   <ul>
     <li>
@@ -65,10 +65,16 @@ Let's Connect: Contact me if you're interested in discussing cutting-edge blockc
       <a href="https://github.com/gaogao-asia/key3hackathon">TrustX</a> at Toyota & Key3 Hackathon
     </li>
     <li>
-      <a href="https://ethglobal.com/showcase/daypass-jf7vx">DayPass</a> at ETHTokyo
+      <a href="https://ethglobal.com/showcase/daypass-jf7vx">DayPass</a> at ETHTokyo 2023
     </li>
-     <li>
+    <li>
       <a href="https://devfolio.co/projects/bitbounty-aca1">BitBounty</a> at ETHDenver 2024
+    </li>
+    <li>
+      <a href="https://ethglobal.com/showcase/deref-w6ze0">Deref</a> at ETHLondon 2024
+    </li>
+    <li>
+      <a href="https://ethglobal.com/showcase/tamatebako-9rxnm">TamateBako</a> at ETHBrussels 2024
     </li>
   </ul>
 </p>
