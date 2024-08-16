@@ -8,10 +8,10 @@
 
 #### Key Career Highlights:  
 ⭐ Pioneered the development of core blockchain components as a Blockchain Protocol Engineer at Polygon Edge, a leading open-source blockchain protocol project.   
-⭐ Led multiple DApps (Distributed Application) development initiatives at GAOGAO, including creating a DAO management tool and Badge Creation Tool for issuing attendance achievements.   
+⭐ Led multiple DApps (Distributed Application) development initiatives, including creating a DAO management tool and Badge Creation Tool for issuing attendance achievements.   
 ⭐ Oversaw practical and advanced DApp development, participating in 7+ Web3 hackathons and clinching prizes from sponsor companies in 7 hackathons.  
 ⭐ Crafted intuitive user interfaces for cryptocurrency trading applications, encompassing features such as News Feed, Price Chart, and Place Order Screen.   
-⭐ Led four web application development projects at GAOGAO, providing key insights and technical guidance to the CTO during the early stages of application development.
+⭐ Led four web application development projects, providing key insights and technical guidance to the CTO during the early stages of application development.
 
 Specialties: Blockchain Development | Cross-chain Interoperability | Smart Contract Development | Distributed Systems | System Architecture | EVM-Compatible Blockchain | Stakeholder Engagement | Cryptography
 
@@ -21,10 +21,7 @@ Let's Connect: Contact me if you're interested in discussing cutting-edge blockc
 
 <div style="width: 100%; display:flex; justify-content: space-between; flex-wrap: wrap;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
-  <div style="display: grid; grid-template-columns: auto; gap: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kourin1996" alt="Kourin1996" />
-  </div>
+
 </div>
 
 <br clear="left" />
