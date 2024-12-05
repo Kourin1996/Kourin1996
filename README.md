@@ -48,11 +48,13 @@ Technical Skills: Golang | Rust | JavaScript | TypeScript | Solidity | PostgreSQ
 <a target="_blank" href="https://docs.amplify.aws/assets/logo-dark.svg" style="display: inline-block;"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/kourin_crypto" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/kourin" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
 <h2>📊 Stats </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kourin1996&" alt="Kourin1996" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en&layout=compact" alt="Kourin1996" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kourin1996" alt="Kourin1996" /></a></p>
+
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/kourin_crypto" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/kourin" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
