@@ -50,10 +50,15 @@ Technical Skills: Golang | Rust | JavaScript | TypeScript | Solidity | PostgreSQ
 <a target="_blank" href="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a></p>
 
 <h2>📊 Stats </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kourin1996&" alt="Kourin1996" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en&layout=compact" alt="Kourin1996" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kourin1996" alt="Kourin1996" /></a></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kourin1996&show_icons=true&locale=en" alt="Kourin1996" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kourin1996&show_icons=true&locale=en&layout=compact" alt="Kourin1996" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kourin1996" alt="Kourin1996" />
+</a>
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/kourin_crypto" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
