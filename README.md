@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm kourin</h1>
-<h3 align="center">Visionary Blockchain Engineer | 6+ Years in Optimizing Blockchain Systems | Expert in Cryptography & Consensus Algorithms | Proficient in Golang, Rust, and Web3 Development</h3>
+<h3 align="center">Visionary Blockchain Engineer | 8+ Years in Optimizing Blockchain Systems | Expert in Cryptography & Consensus Algorithms | Proficient in Golang, Rust, and Web3 Development</h3>
 
-✅ Over six years of developing blockchain systems for efficiency and performance while leveraging a deep understanding of cryptographic principles and consensus algorithms.  
+✅ Over eight years of developing blockchain systems for efficiency and performance while leveraging a deep understanding of cryptographic principles and consensus algorithms.  
 ✅ Brings deep insights into blockchain technology, protocol layers, applied cryptography, distributed system consensus, and asynchronous processing programming using Golang and Rust.  
-✅ Contributed to consensus engine, EVM (Ethereum Virtual Machine), networking, state management, and BLS aggregated signature.  
+✅ Contributed to Ethereum Layer 2, consensus engine, EVM (Ethereum Virtual Machine), networking, state management, and BLS aggregated signature.  
 ✅ Expert Web Application Developer proficient in React, Next.js, HTML, CSS, Node.js, TypeScript, Golang.
 
 #### Key Career Highlights:  
