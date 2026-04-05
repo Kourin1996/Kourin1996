@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm kourin</h1>
 <h3 align="center">Blockchain Protocol Engineer | Ethereum L2 & OP Stack | Consensus, EVM & ZK | Rust, Golang, Solidity</h3>
 
+<h3 align="center">I write about blockchain protocol internals on <a href="kourin.jp">kourin.jp<a>. Feel free to stop by and explore.</h3>
+
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Kourin1996" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/kourin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="kourin.code🤩gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kourin_crypto" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
